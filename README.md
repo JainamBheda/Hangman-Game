@@ -1,7 +1,7 @@
 
 # Hangman Game
 
-### Site is live at https://jainambheda.github.io/Hangman-Game/
+### Game is live at https://jainambheda.github.io/Hangman-Game/
 
 This project is a simple implementation of the traditional Hangman game. The objective of the game is to guess a hidden word by suggesting letters within a certain number of guesses. Each correct letter is revealed in the word, while each incorrect guess results in a part of the hangman being drawn. The game ends when the player either guesses the word correctly or the hangman is fully drawn.
 
